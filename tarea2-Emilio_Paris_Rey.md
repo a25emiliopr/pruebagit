@@ -76,3 +76,4 @@ Para mejorar el rendimiento y habilitar el ajuste automático de pantalla y port
 
 
 ## prueba
+![alt text](image.png)
