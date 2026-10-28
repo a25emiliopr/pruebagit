@@ -64,4 +64,10 @@ Cada una tiene unas características únicas que la hacen adecuada para distinto
 * 🌐 [Introducción a Redes - Cisco](https://www.netacad.com/)
 * 📘 [Wikipedia: Topologia de red](https://es.wikipedia.org/wiki/Topolog%C3%ADa_de_red)
 * 📺 [Video eplicativo en YouTube](https://img.youtube.com/vi/3QhU9jd03a0/maxresdefault.jpg)
+
 ---
+
+## INFORMACION PROYECYO
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
